@@ -6,6 +6,12 @@ html {
   color: white;
 }
 
+footer {
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
 ul {
   position: relative;
   bottom: 50px;
