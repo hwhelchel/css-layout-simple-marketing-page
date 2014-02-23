@@ -89,3 +89,25 @@ li {
   color: white;
   clear: both;
 }
+
+nav li {
+ position: absolute;
+}
+
+/*Home*/
+nav li:first-of-type {
+ position: absolute;
+ margin-left: 81%;
+}
+
+/*Profile*/
+nav li:nth-of-type(2) {
+ position: absolute;
+ margin-left: 86%;
+}
+
+/*Contact*/
+nav li:nth-of-type(3) {
+ position: absolute;
+ margin-left: 91%;
+}
