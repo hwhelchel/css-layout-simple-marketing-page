@@ -2,6 +2,10 @@ html {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+.marketing {
+  color: white;
+}
+
 ul {
   position: relative;
   bottom: 50px;
